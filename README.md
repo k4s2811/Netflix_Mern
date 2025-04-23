@@ -1,7 +1,6 @@
 <h1 align="center">MERN Netflix Clone 🎬</h1>
 
 
-About This Course:
 
 -   ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind
 -   🔐 Authentication with JWT
